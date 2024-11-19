@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a proof of concept for implementing dark and light themes in a website using HTML, CSS, and JavaScript.
+This project is a proof of concept for implementing dark and light themes in a website using HTML, CSS (Tailwind CSS), and JavaScript.
 
 ![Screenshot](screenshot.png)
 
